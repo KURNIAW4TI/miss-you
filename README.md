@@ -15,3 +15,7 @@ cd miss-you
 ls
 python crack.py
 ```
+- METODE LOGIN
+```
+cookie
+```
