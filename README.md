@@ -1,4 +1,4 @@
-<a href="https://github.com/KURNIAW4TI/miss-you"><img title="SKS-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=KURNIAW4TI&repo=SKS-PRO&theme=vision-friendly-dark"></a>
+<a href="https://github.com/KURNIAW4TI/miss-you"><img title="miss-you" src="https://github-readme-stats.vercel.app/api/pin/?username=KURNIAW4TI&repo=miss-you&theme=vision-friendly-dark"></a>
 <p align="center">
 
 # INSTALL
